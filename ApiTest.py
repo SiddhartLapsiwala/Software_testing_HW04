@@ -1,7 +1,7 @@
 import unittest.mock
 import mock
-from Assignment5.API_Connect import retrive_commit
-from Assignment5.API_Connect import retrive_list_of_repo
+from API_Connect import retrive_commit
+from API_Connect import retrive_list_of_repo
 
 
 class ApiTest(unittest.TestCase):
